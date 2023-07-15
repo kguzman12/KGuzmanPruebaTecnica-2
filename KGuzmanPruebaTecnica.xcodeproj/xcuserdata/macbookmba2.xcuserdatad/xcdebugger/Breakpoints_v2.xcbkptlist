@@ -1,0 +1,1820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "924EA318-ADA3-435E-8F32-CEDBE7650C18"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8474906A-770B-4D67-8637-363271EBB691"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8474906A-770B-4D67-8637-363271EBB691 - 23181efce84211dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "4416">
+               </Location>
+               <Location
+                  uuid = "8474906A-770B-4D67-8637-363271EBB691 - 23181efce842113a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "4416">
+               </Location>
+               <Location
+                  uuid = "8474906A-770B-4D67-8637-363271EBB691 - 831b65f24239dc73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "4416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42488BD2-CDC8-4E70-94BD-244CB4A19A3E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "acelerometro()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "42488BD2-CDC8-4E70-94BD-244CB4A19A3E - 24a90d16020dbd00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimeViewController.acelerometro() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "42488BD2-CDC8-4E70-94BD-244CB4A19A3E - 24a90d16020dbeff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimeViewController.acelerometro() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "42488BD2-CDC8-4E70-94BD-244CB4A19A3E - 84aa7618a87671a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimeViewController.acelerometro() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F4F9D25-B4A8-4F98-83E5-BC22C1830043"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "acelerometro()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F4F9D25-B4A8-4F98-83E5-BC22C1830043 - 75340a59ff6b3506"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMAccelerometerData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in KGuzmanPruebaTecnica.TimeViewController.acelerometro() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "9F4F9D25-B4A8-4F98-83E5-BC22C1830043 - 75340a59ff6b3565"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMAccelerometerData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in KGuzmanPruebaTecnica.TimeViewController.acelerometro() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "9F4F9D25-B4A8-4F98-83E5-BC22C1830043 - d53771575510f8ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMAccelerometerData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in KGuzmanPruebaTecnica.TimeViewController.acelerometro() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FE474DA-356E-40CF-A1E4-DA886BBA1107"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9FE474DA-356E-40CF-A1E4-DA886BBA1107 - 23181efce8421600"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "9FE474DA-356E-40CF-A1E4-DA886BBA1107 - 23181efce8421661"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "9FE474DA-356E-40CF-A1E4-DA886BBA1107 - 831b65f24239c2a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68F9F22D-F592-4BBF-A391-78A3A1C0AE47"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "timeFormatted(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68F9F22D-F592-4BBF-A391-78A3A1C0AE47 - 289d5de4ffdecbfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimeViewController.timeFormatted(Swift.Int) -&gt; Swift.String"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "68F9F22D-F592-4BBF-A391-78A3A1C0AE47 - 289d5de4ffdecbfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimeViewController.timeFormatted(Swift.Int) -&gt; Swift.String"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD9930DC-F862-46B4-8870-3924296F0BAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/PickerDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "numberOfComponents(in:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD9930DC-F862-46B4-8870-3924296F0BAA - cc137ec33c665790"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.PickerDelegate.numberOfComponents(in: __C.UIPickerView) -&gt; Swift.Int"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/PickerDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "FD9930DC-F862-46B4-8870-3924296F0BAA - cc137ec33c6657f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.PickerDelegate.numberOfComponents(in: __C.UIPickerView) -&gt; Swift.Int"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/PickerDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EE4B699-E4FC-4318-80E9-F1C276F0940E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/PickerDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "pickerView(_:numberOfRowsInComponent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8EE4B699-E4FC-4318-80E9-F1C276F0940E - ee9668d54fd4986c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.PickerDelegate.pickerView(_: __C.UIPickerView, numberOfRowsInComponent: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/PickerDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "8EE4B699-E4FC-4318-80E9-F1C276F0940E - ee9668d54fd4980d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.PickerDelegate.pickerView(_: __C.UIPickerView, numberOfRowsInComponent: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/PickerDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC7090F4-EB69-4EE1-9877-507ECACCA17B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/PickerDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "pickerView(_:titleForRow:forComponent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC7090F4-EB69-4EE1-9877-507ECACCA17B - d0ebada8c824eecf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.PickerDelegate.pickerView(_: __C.UIPickerView, titleForRow: Swift.Int, forComponent: Swift.Int) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/PickerDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "DC7090F4-EB69-4EE1-9877-507ECACCA17B - d0ebada8c824eeae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.PickerDelegate.pickerView(_: __C.UIPickerView, titleForRow: Swift.Int, forComponent: Swift.Int) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/PickerDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00FF8205-7B28-43CF-9B1D-62F1F9900675"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "ConfiguracionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "00FF8205-7B28-43CF-9B1D-62F1F9900675 - d3b6dc01f75d93fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.loadSoundFirst() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  uuid = "00FF8205-7B28-43CF-9B1D-62F1F9900675 - a4f053ce5cc76782"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.playSound(at: Swift.Int) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D43094B9-6A56-4A29-92C7-439127B99AF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "pickerView(_:didSelectRow:inComponent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D43094B9-6A56-4A29-92C7-439127B99AF2 - aa52a1c3d628cb4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "D43094B9-6A56-4A29-92C7-439127B99AF2 - aa52a1c3d628c8a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "D43094B9-6A56-4A29-92C7-439127B99AF2 - aa52a1c3d628cb4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BA0C0DB-354A-4AB9-AF75-FFEC3381DDB7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "pickerView(_:didSelectRow:inComponent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5BA0C0DB-354A-4AB9-AF75-FFEC3381DDB7 - aa52a1c3d628cb6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  uuid = "5BA0C0DB-354A-4AB9-AF75-FFEC3381DDB7 - aa52a1c3d628cb6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "5BA0C0DB-354A-4AB9-AF75-FFEC3381DDB7 - aa52a1c3d628cb4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2473E63A-68FD-48E7-A5F1-D16313A115E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "ConfiguracionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2473E63A-68FD-48E7-A5F1-D16313A115E1 - ac0d3bccc149a301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.loadSounds() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "2672">
+               </Location>
+               <Location
+                  uuid = "2473E63A-68FD-48E7-A5F1-D16313A115E1 - ac0d3bccc149a301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.loadSounds() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "3700">
+               </Location>
+               <Location
+                  uuid = "2473E63A-68FD-48E7-A5F1-D16313A115E1 - ac0d3bccc149a301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.loadSounds() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "2473E63A-68FD-48E7-A5F1-D16313A115E1 - ac0d3bccc149a301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.loadSounds() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "2920">
+               </Location>
+               <Location
+                  uuid = "2473E63A-68FD-48E7-A5F1-D16313A115E1 - ac0d3bccc149a301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.loadSounds() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "760">
+               </Location>
+               <Location
+                  uuid = "2473E63A-68FD-48E7-A5F1-D16313A115E1 - ac0d3bccc149a301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.loadSounds() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "3212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61E05238-CF1E-411B-BF4E-C6BF582F23C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "loadAvAudioSession()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "61E05238-CF1E-411B-BF4E-C6BF582F23C3 - ac0d3bccc149a209"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.loadSounds() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "1556">
+               </Location>
+               <Location
+                  uuid = "61E05238-CF1E-411B-BF4E-C6BF582F23C3 - ac0d3bccc149a209"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.loadSounds() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "2800">
+               </Location>
+               <Location
+                  uuid = "61E05238-CF1E-411B-BF4E-C6BF582F23C3 - 64d28f4cd91fb41a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.loadAvAudioSession() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "61E05238-CF1E-411B-BF4E-C6BF582F23C3 - 64d28f4cd91fb7fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.loadAvAudioSession() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6647D61-78D2-48C4-9F5C-23ABCAE8A800"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7746A206-3852-47C8-83C6-1FB9B5EE9319"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "354"
+            endingLineNumber = "354"
+            landmarkName = "endTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7746A206-3852-47C8-83C6-1FB9B5EE9319 - 5fcc548d5c1bb9fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.endTimer() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "7746A206-3852-47C8-83C6-1FB9B5EE9319 - 5fcc548d5c1bb9fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.endTimer() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74BD7F2B-9F34-4E2E-8004-4FA831645B30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "355"
+            endingLineNumber = "355"
+            landmarkName = "endTimer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFAAB182-21D9-4F5A-BC65-7065E06C101E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "241"
+            endingLineNumber = "241"
+            landmarkName = "startTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DFAAB182-21D9-4F5A-BC65-7065E06C101E - 8328cb238f300e55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonUno(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "241"
+                  endingLineNumber = "241"
+                  offsetFromSymbolStart = "4452">
+               </Location>
+               <Location
+                  uuid = "DFAAB182-21D9-4F5A-BC65-7065E06C101E - 157a59ab7ef4d0dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.startTimer() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "241"
+                  endingLineNumber = "241"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D263B98-6952-4297-8334-7E4613DB3B85"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "botonUno(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D263B98-6952-4297-8334-7E4613DB3B85 - 8328cb238f300d39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonUno(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "920">
+               </Location>
+               <Location
+                  uuid = "6D263B98-6952-4297-8334-7E4613DB3B85 - 8328cb238f300d39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonUno(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "6D263B98-6952-4297-8334-7E4613DB3B85 - 8328cb238f300abd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonUno(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "217"
+                  endingLineNumber = "217"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "6D263B98-6952-4297-8334-7E4613DB3B85 - 8328cb238f300d5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonUno(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C33F16F-8F67-4376-9699-B6491445BFFD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "botonUno(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C33F16F-8F67-4376-9699-B6491445BFFD - 8328cb238f300c8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonUno(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "2880">
+               </Location>
+               <Location
+                  uuid = "8C33F16F-8F67-4376-9699-B6491445BFFD - 8328cb238f300c8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonUno(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "3412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6703EABE-81A8-42B2-BFCD-B71AACE216E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "updateTime()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6703EABE-81A8-42B2-BFCD-B71AACE216E4 - ed2295ca23b61909"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.updateTime() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "1116">
+               </Location>
+               <Location
+                  uuid = "6703EABE-81A8-42B2-BFCD-B71AACE216E4 - ed2295ca23b618e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.updateTime() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "257"
+                  endingLineNumber = "257"
+                  offsetFromSymbolStart = "1464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA1F9932-ED5D-4301-A78E-CB65A8C736B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "userDefault()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA1F9932-ED5D-4301-A78E-CB65A8C736B0 - 817e5375a71cc96d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "AA1F9932-ED5D-4301-A78E-CB65A8C736B0 - 817e5375a71cc96d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "AA1F9932-ED5D-4301-A78E-CB65A8C736B0 - 817e5375a71cc96d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "AA1F9932-ED5D-4301-A78E-CB65A8C736B0 - 817e5375a71cc94c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "AA1F9932-ED5D-4301-A78E-CB65A8C736B0 - 817e5375a71cc92f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "AA1F9932-ED5D-4301-A78E-CB65A8C736B0 - 817e5375a71cc92f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "AA1F9932-ED5D-4301-A78E-CB65A8C736B0 - 817e5375a71cc882"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "AA1F9932-ED5D-4301-A78E-CB65A8C736B0 - 817e5375a71cc844"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "820">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF591594-C11A-4A80-B462-20BFEA8798DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "userDefault()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DF591594-C11A-4A80-B462-20BFEA8798DC - 4fb50a4d0e1966d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.acelerometro() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "DF591594-C11A-4A80-B462-20BFEA8798DC - 817e5375a71cc92f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "DF591594-C11A-4A80-B462-20BFEA8798DC - 817e5375a71cc90e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "DF591594-C11A-4A80-B462-20BFEA8798DC - 817e5375a71cc8e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+               <Location
+                  uuid = "DF591594-C11A-4A80-B462-20BFEA8798DC - 817e5375a71cc8e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "1032">
+               </Location>
+               <Location
+                  uuid = "DF591594-C11A-4A80-B462-20BFEA8798DC - 817e5375a71cc844"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "1028">
+               </Location>
+               <Location
+                  uuid = "DF591594-C11A-4A80-B462-20BFEA8798DC - 817e5375a71cc844"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "820">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "068A8867-7893-4A1F-AD19-231F96154B6B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "userDefault()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "068A8867-7893-4A1F-AD19-231F96154B6B - 4fb50a4d0e196ada"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.acelerometro() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "068A8867-7893-4A1F-AD19-231F96154B6B - 817e5375a71cc52c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "1932">
+               </Location>
+               <Location
+                  uuid = "068A8867-7893-4A1F-AD19-231F96154B6B - 817e5375a71cc5a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "1932">
+               </Location>
+               <Location
+                  uuid = "068A8867-7893-4A1F-AD19-231F96154B6B - 817e5375a71cc58b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.userDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D49970D5-2968-4DB4-9729-8750BAA9753F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "342"
+            endingLineNumber = "342"
+            landmarkName = "btnDetenerSounds(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D49970D5-2968-4DB4-9729-8750BAA9753F - 1de8587172d209f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.prepareVibracion() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "D49970D5-2968-4DB4-9729-8750BAA9753F - 5d7cb8fe73d14903"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.btnDetenerSounds(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28D8BE4B-79F4-4513-830A-B9C54FF811A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "268"
+            endingLineNumber = "268"
+            landmarkName = "recuperaUserDefault()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "28D8BE4B-79F4-4513-830A-B9C54FF811A1 - e5924ac9516a7119"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.recuperaUserDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "271"
+                  endingLineNumber = "271"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+               <Location
+                  uuid = "28D8BE4B-79F4-4513-830A-B9C54FF811A1 - e5924ac9516a715b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.recuperaUserDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "1120">
+               </Location>
+               <Location
+                  uuid = "28D8BE4B-79F4-4513-830A-B9C54FF811A1 - e5924ac9516a7138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.ConfiguracionViewController.recuperaUserDefault() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/ConfiguracionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "270"
+                  endingLineNumber = "270"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C7CC8B4-442B-41CB-A6C1-598D3A31B2C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "268"
+            endingLineNumber = "268"
+            landmarkName = "updateTime()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9C7CC8B4-442B-41CB-A6C1-598D3A31B2C4 - ed2295ca23b61b85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.updateTime() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "1856">
+               </Location>
+               <Location
+                  uuid = "9C7CC8B4-442B-41CB-A6C1-598D3A31B2C4 - ed2295ca23b61b85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.updateTime() -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "2012">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A53B72B-7267-470E-8BF9-C66C86D53B67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "botonUno(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7D7B3F1-7C14-4FFA-AEE3-FB8A28682FB8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "370"
+            endingLineNumber = "370"
+            landmarkName = "botonDos(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D7D7B3F1-7C14-4FFA-AEE3-FB8A28682FB8 - 4557a24a258047e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonDos(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "370"
+                  endingLineNumber = "370"
+                  offsetFromSymbolStart = "1856">
+               </Location>
+               <Location
+                  uuid = "D7D7B3F1-7C14-4FFA-AEE3-FB8A28682FB8 - 4557a24a258047e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonDos(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "370"
+                  endingLineNumber = "370"
+                  offsetFromSymbolStart = "1892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC54FB54-92F6-4E60-8F9A-45AB01D357EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "383"
+            endingLineNumber = "383"
+            landmarkName = "botonDos(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC54FB54-92F6-4E60-8F9A-45AB01D357EE - 4557a24a25804913"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonDos(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "383"
+                  endingLineNumber = "383"
+                  offsetFromSymbolStart = "3564">
+               </Location>
+               <Location
+                  uuid = "DC54FB54-92F6-4E60-8F9A-45AB01D357EE - 4557a24a25804913"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonDos(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "383"
+                  endingLineNumber = "383"
+                  offsetFromSymbolStart = "4368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7C28B91-BD70-4325-A8C9-08DACB9C6BFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "386"
+            endingLineNumber = "386"
+            landmarkName = "botonDos(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7C28B91-BD70-4325-A8C9-08DACB9C6BFC - 4557a24a258049f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonDos(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "386"
+                  endingLineNumber = "386"
+                  offsetFromSymbolStart = "4192">
+               </Location>
+               <Location
+                  uuid = "C7C28B91-BD70-4325-A8C9-08DACB9C6BFC - 4557a24a258049f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonDos(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "386"
+                  endingLineNumber = "386"
+                  offsetFromSymbolStart = "5160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8FBCFF6-2E9D-44C1-9205-B0F785F6514D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "234"
+            endingLineNumber = "234"
+            landmarkName = "botonUno(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F8FBCFF6-2E9D-44C1-9205-B0F785F6514D - 8328cb238f300f4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonUno(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "2900">
+               </Location>
+               <Location
+                  uuid = "F8FBCFF6-2E9D-44C1-9205-B0F785F6514D - 8328cb238f300f4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KGuzmanPruebaTecnica.TimerTimeViewController.botonUno(__C.UIButton) -&gt; ()"
+                  moduleName = "KGuzmanPruebaTecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba2/Documents/Ana%20Karen%20Guzman%20Rodriguez/KGuzmanPruebaTecnica%202/KGuzmanPruebaTecnica/Controller/TimerTimeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "3672">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
